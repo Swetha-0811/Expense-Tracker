@@ -11,7 +11,8 @@ In the project directory, you can run:
 
 Runs the app in the development mode.\
 Open 
-expense-tracker-chi-taupe-39.vercel.app
+https://expense-tracker-chi-taupe-39.vercel.app/
+
 
  to view it in your browser.
 
